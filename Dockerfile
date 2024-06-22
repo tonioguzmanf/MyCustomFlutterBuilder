@@ -62,3 +62,5 @@ RUN flutter channel $channel
 RUN flutter upgrade
 
 ENTRYPOINT [ "flutter" ]
+
+#time to build
